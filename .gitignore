@@ -1,0 +1,20 @@
+*.sw?
+/*.txt
+*.pyc
+tags
+
+src/build/android/bin/
+src/out/
+src/third_party/catapult/third_party/Paste/tests/urlparser_data/find_file/dir with spaces/
+src/third_party/catapult/third_party/Paste/tests/urlparser_data/find_file/test 3.html
+src/tools/perf/page_sets/data/credentials.json
+src/tools/perf/results.html
+src/tools/telemetry/bin/android/arm64-v8a/device_forwarder
+src/tools/telemetry/bin/android/arm64-v8a/file_poller
+src/tools/telemetry/bin/android/arm64-v8a/md5sum_bin
+src/tools/telemetry/bin/android/arm64-v8a/memtrack_helper
+src/tools/telemetry/bin/android/arm64-v8a/purge_ashmem
+src/tools/telemetry/bin/android/arm64-v8a/run_pie
+src/tools/telemetry/bin/linux/x86_64/bitmaptools
+src/tools/telemetry/bin/linux/x86_64/host_forwarder
+src/tools/telemetry/bin/linux/x86_64/md5sum_bin_host
